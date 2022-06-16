@@ -2,7 +2,7 @@
 #### Hey! Welcome to my GitHub profile. Here, you'll find some of my projects and, of course, my Minecraft Server website. Keep reading to find out more about me.
 
 ## Introduction
-I'm a photographer, aspiring app developer, and music producer, to name a few. I've built two hackintoshes (the code for some of which can be found in the my repos), plus I love gaming. I'm from Mississauga, Ontario, Canada and I'm a Computer Engineering student at York University. See more [here.](#education)
+I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app developer, and [music producer](https://soundcloud.com/vanadiumtracks), to name a few. I've built two hackintoshes (the code for some of which can be found in the my repos), plus I love gaming. I'm from Mississauga, Ontario, Canada and I'm a Computer Engineering student at York University. See more [here.](#education)
 
 ## Hobbies
 - Building Computers
