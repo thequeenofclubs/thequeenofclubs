@@ -25,7 +25,7 @@ I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app develope
 
 ## Education
 ### Post-Secondary
-- York University
+- York University (**Bachelor of Engineering with Honours in Computer Engineering)
   - 2021 - 2025
 
 ### Secondary
@@ -60,4 +60,4 @@ I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app develope
 ### Spoken Languages
 - English
 - French
-- Read Cyrillic (Привет!)
+- Cyrillic: Basic Russian and Ukranian (Привет!)
