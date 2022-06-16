@@ -17,6 +17,8 @@ I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app develope
 - Java
 - Python
 - Swift
+- Markdown
+- TeX (LaTeX, BibTeX, MathJaX)
 
 ### Computer Networks
 - Manage Servers & Infrastructure
@@ -60,4 +62,4 @@ I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app develope
 ### Spoken Languages
 - English
 - French
-- Cyrillic: Basic Russian and Ukranian (Привет!)
+- Cyrillic: Very Basic Russian and Ukranian (Привет!)
