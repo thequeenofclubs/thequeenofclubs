@@ -25,7 +25,7 @@ I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app develope
 
 ## Education
 ### Post-Secondary
-- York University (**Bachelor of Engineering with Honours in Computer Engineering)
+- York University (**Bachelor of Engineering with Honours in Computer Engineering**)
   - 2021 - 2025
 
 ### Secondary
