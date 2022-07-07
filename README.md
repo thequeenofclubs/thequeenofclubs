@@ -27,11 +27,11 @@ I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app develope
 
 ## Education
 ### Post-Secondary
-- York University (**Computer Engineering // Anticipated: Bachelor of Honours in Engineering**)
+- York University (**Computer Engineering // *Anticipated*: Bachelor of Honours in Engineering**)
   - 2021 - 2025
 
 ### Secondary
-- St. Marcellinus Secondary School **(OSSD with Honour Roll)**
+- St. Marcellinus Secondary School **(OSSD with Honours)**
   - 2017 - 2021
 
 ### Primary
