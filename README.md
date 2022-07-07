@@ -1,6 +1,5 @@
-# Gabe's GitHub Profile
+# Welcome To Gabe's GitHub Profile
 
-> ### Welcome!
 > **Note:** You're currently reading my Resume (more like a CV). If you scroll down past the CV, you'll find four of my most noteworthy projects.
 
 
@@ -13,7 +12,7 @@ I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app develope
 - Programming
 - Music Production
 - Gaming
-- Fitness (Jimm is one of my best friends)
+- Fitness
 
 ## Skills & Abilities
 ### Computer Programming
@@ -25,7 +24,7 @@ I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app develope
 
 ### Computer Networks
 - Manage Servers & Infrastructure
-- HTML Web Development
+- Markdown & HTML Web Development
 - Rudimentary CSS
 
 ## Education
