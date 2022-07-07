@@ -1,8 +1,11 @@
 # Gabe's GitHub Profile
-#### Hey! Welcome to my GitHub profile. Here, you'll find some of my projects, as well as the source code for some of the websites I run. Keep reading to find out more about me.
+#### Hey! Welcome to my GitHub profile. You're currently reading my Resume (more like a CV). If you scroll down past the CV, you'll find four of my most noteworthy projects.
 
 ## Introduction
-I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app developer, and [music producer](https://soundcloud.com/vanadiumtracks), to name a few. I've built two hackintoshes (the code for some of which can be found in the my repos), plus I love gaming. I'm from Mississauga, Ontario, Canada and I'm a Computer Engineering student at York University. See more [here.](#education)
+I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app developer, and [music producer](https://soundcloud.com/vanadiumtracks), to name a few. I'm from [Mississauga, Ontario, Canada](https://duckduckgo.com/?q=Mississauga%2C+ON&va=b&t=hc&ia=web&iaxm=maps&strict_bbox=0&bbox=46.198653276584224%2C-83.02062456586555%2C46.189670123743014%2C-83.00042923413446&iax=images) and I'm a Computer Engineering student at York University in [North York, Ontario, Canada](https://duckduckgo.com/?q=York+University&va=b&t=hc&ia=web&iaxm=maps&strict_bbox=0&bbox=43.78557430538699%2C-79.46806121747038%2C43.736385105387%2C-79.36207298252963&iax=images&metatoken=1). See more [here.](#education)
+
+## Test Section
+<span style="color:red">test red text</span>
 
 ## Hobbies
 - Building Computers
