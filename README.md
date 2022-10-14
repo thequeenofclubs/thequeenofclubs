@@ -33,7 +33,7 @@ I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app develope
   - 2021 - 2025
 
 ### Secondary
-- St. Marcellinus Secondary School **(OSSD with Honours)**
+- St. Marcellinus Secondary School **(OSSD with Honours & Ontario Scholar Award)**
   - 2017 - 2021
 
 ### Primary
