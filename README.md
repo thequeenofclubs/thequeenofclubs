@@ -16,11 +16,15 @@ I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app develope
 
 ## Skills & Abilities
 ### Computer Programming
+- Bash
 - Java
 - Python
 - Swift
 - Markdown
 - TeX (LaTeX, BibTeX, MathJaX)
+- C#
+- Basic C
+- Arduino
 
 ### Computer Networks
 - Manage Servers & Infrastructure
