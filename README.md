@@ -40,10 +40,6 @@ I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app develope
 - St. Marcellinus Secondary School **(OSSD with Honours & Ontario Scholar Award)**
   - 2017 - 2021
 
-### Primary
-- Rotherglen School
-  - 2014 - 2017
-
 ## Extra-Curricular Activities
 ### Secondary School
 - Robotics Club
@@ -55,7 +51,7 @@ I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app develope
 --  Summer Camp Volunteer (100+ Hours)
 
 - St. Marcellinus Secondary School
--- Sound & Light Event Crew (200+ Hours)
+-- Sound & Light Event Crew (400+ Hours)
 
 ## Certifications
 ### National Lifesaving Society
