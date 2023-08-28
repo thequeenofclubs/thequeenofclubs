@@ -1,10 +1,10 @@
-# Welcome To Gabe's GitHub Profile
+# Welcome To Tara's GitHub Profile
 
 > **Note:** You're currently reading my Resume (more like a CV). If you scroll down past the CV, you'll find four of my most noteworthy projects.
 
 
 ## Introduction
-I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app developer, and [music producer](https://soundcloud.com/vanadiumtracks), to name a few. I'm from [Mississauga, Ontario, Canada](https://duckduckgo.com/?q=Mississauga%2C+ON&va=b&t=hc&ia=web&iaxm=maps&strict_bbox=0&bbox=46.198653276584224%2C-83.02062456586555%2C46.189670123743014%2C-83.00042923413446&iax=images) and I'm a Computer Engineering student at York University in [North York, Ontario, Canada](https://duckduckgo.com/?q=York+University&va=b&t=hc&ia=web&iaxm=maps&strict_bbox=0&bbox=43.78557430538699%2C-79.46806121747038%2C43.736385105387%2C-79.36207298252963&iax=images&metatoken=1). See more [here.](#education)
+I'm a photographer, software developer, and [music producer](https://soundcloud.com/yearseve), to name a few. I'm from Mississauga, Ontario, Canada, and I'm a Computer Engineering student at York University. See more [here.](#education)
 
 ## Hobbies
 - Building Computers
@@ -33,8 +33,8 @@ I'm a [photographer](https://instagram.com/gabesphotos__), aspiring app develope
 
 ## Education
 ### Post-Secondary
-- York University (**Computer Engineering // *Anticipated*: Bachelor of Honours in Engineering**)
-  - 2021 - 2025
+- York University (**Computer Science // *Anticipated*: Bachelor of Honours in Computer Science**)
+  - 2021 - 2026
 
 ### Secondary
 - St. Marcellinus Secondary School **(OSSD with Honours & Ontario Scholar Award)**
