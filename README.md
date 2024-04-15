@@ -1,10 +1,10 @@
-# Welcome To Tara's GitHub Profile
+# Welcome To Valerie's GitHub Profile
 
 > **Note:** You're currently reading my Resume (more like a CV). If you scroll down past the CV, you'll find four of my most noteworthy projects.
 
 
 ## Introduction
-I'm a photographer, software developer, and [music producer](https://soundcloud.com/yearseve), to name a few. I'm from Mississauga, Ontario, Canada, and I'm a Computer Engineering student at York University. See more [here.](#education)
+I'm a photographer, software developer, and [music producer](https://soundcloud.com/yearseve), to name a few. I'm from Mississauga, Ontario, Canada, and I'm a Computer Science student at York University. See more [here.](#education)
 
 ## Hobbies
 - Building Computers
